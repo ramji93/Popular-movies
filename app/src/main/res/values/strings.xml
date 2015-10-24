@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popularmovies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_description">Description</string>
+    <string name="popularity">popularity.desc</string>
+    <string name="rating">vote_average.desc</string>
+    <array name="pref_sortby">
+        <item>@string/popularity</item>
+        <item>@string/rating</item>
+    </array>
+    <array name="pref_sortby_entries">
+        <item>popularity</item>
+        <item>rating</item>
+    </array>
+
+    <string name="pref_sortby_key">sort by</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
